@@ -1,5 +1,0 @@
-This is a example.
-
-cocos2d::Sprite* sprite;
-
-auto s = Director::getInstance()->getVisibleSize();
